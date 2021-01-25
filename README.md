@@ -2,7 +2,7 @@
 
 # How to install
 
-yarn add
+yarn install
 
 # How to start
 
